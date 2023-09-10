@@ -1,0 +1,5 @@
+/node_modules/*
+/dist/*
+/dist-server/*
+/.idea/*
+/onlinetown-e4a7a-6e8b5a985dcf.json
